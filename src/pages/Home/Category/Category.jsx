@@ -12,10 +12,17 @@ import img1 from '../../../assets/category/cruiser.jpg'
 import img2 from '../../../assets/category/scooter.jpg'
 import img3 from '../../../assets/category/sports.jpg'
 import img4 from '../../../assets/category/touring.jpg'
+import SectionTitle from '../../../components/SectionTitle/SectionTitle';
 
 const Category = () => {
   return (
     <div>
+      <div>
+        <SectionTitle
+        heading={'Explore Our Bike Category'}
+        subHeading={"Let's Search"}
+        />
+      </div>
       <Swiper
         slidesPerView={4}
         spaceBetween={30}
