@@ -1,0 +1,202 @@
+[
+  {
+    "_id": "642c155b2c4774f05c36ee83",
+    "name": "Cruiser Comfort",
+    "description": "A classic cruiser bike with a comfortable saddle, wide tires, and a relaxed riding position, perfect for leisurely rides.",
+    "image": "https://example.com/images/cruiser-comfort.jpg",
+    "category": "cruisers",
+    "price": 400.00
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee84",
+    "name": "Urban Scooter",
+    "description": "A compact and efficient scooter ideal for navigating city streets, featuring a lightweight frame and electric motor.",
+    "image": "https://example.com/images/urban-scooter.jpg",
+    "category": "scooters",
+    "price": 600.00
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee85",
+    "name": "Sport Racer",
+    "description": "A high-performance sports bike designed for speed and agility, with a lightweight carbon fiber frame and aerodynamic design.",
+    "image": "https://example.com/images/sport-racer.jpg",
+    "category": "sports",
+    "price": 2000.00
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee86",
+    "name": "Touring Master",
+    "description": "A durable touring bike built for long-distance rides, featuring a sturdy frame, comfortable seating, and ample storage options.",
+    "image": "https://example.com/images/touring-master.jpg",
+    "category": "touring",
+    "price": 1800.00
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee87",
+    "name": "Popular Choice",
+    "description": "A versatile and popular bike suitable for a variety of terrains and riding styles, known for its reliability and performance.",
+    "image": "https://example.com/images/popular-choice.jpg",
+    "category": "popular",
+    "price": 1200.00
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee01",
+    "name": "Speedster 2000",
+    "description": "A high-speed road bike designed for performance and agility.",
+    "image": "https://example.com/images/speedster-2000.jpg",
+    "category": "cruisers",
+    "price": 1200.00
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee02",
+    "name": "Mountain King",
+    "description": "A rugged mountain bike built for the toughest terrains.",
+    "image": "https://example.com/images/mountain-king.jpg",
+    "category": "cruisers",
+    "price": 1400.00
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee03",
+    "name": "Urban Explorer",
+    "description": "A versatile hybrid bike perfect for city commuting and light trails.",
+    "image": "https://example.com/images/urban-explorer.jpg",
+    "category": "cruisers",
+    "price": 900.00
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee04",
+    "name": "Electric Glide",
+    "description": "An electric bike with a powerful motor for effortless rides.",
+    "image": "https://example.com/images/electric-glide.jpg",
+    "category": "cruisers",
+    "price": 2200.00
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee05",
+    "name": "Cruiser Classic",
+    "description": "A stylish cruiser bike with a comfortable design.",
+    "image": "https://example.com/images/cruiser-classic.jpg",
+    "category": "popular",
+    "price": 800.00
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee06",
+    "name": "Sporty Racer",
+    "description": "A performance-oriented sports bike for speed enthusiasts.",
+    "image": "https://example.com/images/sporty-racer.jpg",
+    "category": "popular",
+    "price": 2000.00
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee07",
+    "name": "Touring Deluxe",
+    "description": "A premium touring bike for long-distance adventures.",
+    "image": "https://example.com/images/touring-deluxe.jpg",
+    "category": "popular",
+    "price": 1800.00
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee08",
+    "name": "Kids' Joyride",
+    "description": "A safe and fun bike designed for kids.",
+    "image": "https://example.com/images/kids-joyride.jpg",
+    "category": "popular",
+    "price": 300.00
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee09",
+    "name": "City Cruiser",
+    "description": "A comfortable city bike ideal for urban commuting.",
+    "image": "https://example.com/images/city-cruiser.jpg",
+    "category": "touring",
+    "price": 750.00
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee0A",
+    "name": "Adventure Seeker",
+    "description": "A durable bike for off-road and adventure riding.",
+    "image": "https://example.com/images/adventure-seeker.jpg",
+    "category": "touring",
+    "price": 1600.00
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee0B",
+    "name": "Comfort Cruiser",
+    "description": "A bike designed for maximum comfort on long rides.",
+    "image": "https://example.com/images/comfort-cruiser.jpg",
+    "category": "offered",
+    "price": 850.00
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee0C",
+    "name": "Speed Demon",
+    "description": "A top-of-the-line road bike for competitive racing.",
+    "image": "https://example.com/images/speed-demon.jpg",
+    "category": "scooters",
+    "price": 2500.00
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee0D",
+    "name": "Trail Blazer",
+    "description": "An all-terrain bike perfect for trail and mountain biking.",
+    "image": "https://example.com/images/trail-blazer.jpg",
+    "category": "scooters",
+    "price": 1300.00
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee0E",
+    "name": "Electric Commuter",
+    "description": "A powerful and efficient electric bike for daily commuting.",
+    "image": "https://example.com/images/electric-commuter.jpg",
+    "category": "scooters",
+    "price": 2100.00
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee0F",
+    "name": "Road Warrior",
+    "description": "A sturdy road bike built for endurance and long rides.",
+    "image": "https://example.com/images/road-warrior.jpg",
+    "category": "scooters",
+    "price": 1700.00
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee10",
+    "name": "Hybrid Hero",
+    "description": "A versatile bike that combines features of road and mountain bikes.",
+    "image": "https://example.com/images/hybrid-hero.jpg",
+    "category": "popular",
+    "price": 1100.00
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee11",
+    "name": "Fitness Pro",
+    "description": "A fitness-oriented bike for those looking to stay active.",
+    "image": "https://example.com/images/fitness-pro.jpg",
+    "category": "offered",
+    "price": 900.00
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee12",
+    "name": "Leisure Ride",
+    "description": "A bike designed for leisurely rides and casual biking.",
+    "image": "https://example.com/images/leisure-ride.jpg",
+    "category": "sports",
+    "price": 700.00
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee13",
+    "name": "Speedster Lite",
+    "description": "A lightweight road bike for quick and efficient riding.",
+    "image": "https://example.com/images/speedster-lite.jpg",
+    "category": "sports",
+    "price": 1300.00
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee14",
+    "name": "Trail Master",
+    "description": "A robust bike built to handle the toughest trails.",
+    "image": "https://example.com/images/trail-master.jpg",
+    "category": "sports",
+    "price": 1500.00
+  }
+]
